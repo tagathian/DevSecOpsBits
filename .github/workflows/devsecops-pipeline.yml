@@ -1,4 +1,4 @@
-name: DevSecOps Pipeline
+name: DevSecOps Pipeline .
 
 # Runs the full shift-left security pipeline on every push/PR to main:
 # secrets scan -> SAST -> SCA -> container build+scan -> IaC scan -> deploy -> DAST
